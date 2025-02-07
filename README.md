@@ -1,7 +1,6 @@
-## Documentation of this project is in [_documentation] directory which is in PDF format.
-
-
 ## MARKET PLACE TECHNICALFONDATION - [ GENERAL E-COMMERCEOFDRESSES ] Frontend (Next.Js)
+
+**Documentation of this project is in [_documentation] directory which is in PDF format.**
 
 **Backend (API,Third Party API,Payment Gateway)**
 
